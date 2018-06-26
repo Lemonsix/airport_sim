@@ -1,0 +1,64 @@
+﻿Ciudad Autónoma de Buenos Aires	Buenos Aires	AEP	Aeroparque Jorge Newbery	AFA	AOL	APZ	BHI	BRC	CTC	CRD	COR	CNQ	FTE	EQS	FMA	JUJ	IRJ	LGS	MDQ	MDZ	NQN	PRA	PSS	IGR	PMY	RCQ	RES	RCU	RGL	RGA	ROS	SLA	SDE	UAQ	LUQ	CPC	AFA	SFN	RSA	RHD	REL	TUC	USH	VDM	
+	San Rafael	Mendoza	AFA	Aeropuerto Internacional Suboficial Ayudante Santiago Germano	AEP	
+	Paso de los Libres	Corrientes	AOL	Aeropuerto Internacional de Paso de los Libres	AEP	COC	
+	Zapala	Neuquén	APZ	Aeropuerto de Zapala	AEP	
+	Alto Río Senguer	Chubut	ARR	Aeropuerto Alto Río Senguer	CRD	
+	Bahía Blanca	Buenos Aires	BHI	Aeropuerto Comandante Espora	BRC	AEP	EZE	EPA	COR	CRD	MDQ	NQN	REL	USH	
+	Bariloche	Río Negro	BRC	Aeropuerto Internacional Teniente Luis Candelaria	BHI	AEP	EZE	EPA	COR	FTE	MDZ	TUC	
+	Corrientes	Corrientes	CNQ	Aeropuerto Internacional Doctor Fernando Piragine Niveyro	AEP	EPA	
+	Concordia	Entre Ríos	COC	Aeropuerto Comodoro Pierrestegui	AEP	AOL	GHU	OYA	MDX	PRA	
+	Córdoba	Córdoba	COR	Aeropuerto Internacional Ingeniero Ambrosio Taravella	BHI	BRC	AEP	EZE	EPA	CRD	FTE	JUJ	MDQ	MDZ	MJR	NQN	PSS	IGR	RES	SLA	CPC	REL	TUC	USH	
+	San Martín de los Andes	Neuquén	CPC	Aeropuerto Aviador Carlos Campos	AEP	COR	
+	Comodoro Rivadavia	Chubut	CRD	Aeropuerto Internacional General Enrique Mosconi	ARR	BHI	AEP	EHL	EMX	EZE	COR	MDQ	MDZ	NQN	RGL	RGA	ROY	REL	EPA	FTE	
+	San Fernando del Valle de Catamarca	Catamarca	CTC	Aeropuerto Coronel Felipe Varela	AEP	
+	El Bolsón	Río Negro	EHL	Aeropuerto de El Bolson	CRD	
+	El Maitén	Chubut	EMX	Aeropuerto de El Maitén	CRD	
+	El Palomar	Buenos Aires	EPA	Aeropuerto El Palomar	BHI	CNQ	CRD	MDZ	NQN	PSS	BRC	TUC	JUJ	SLA	MDQ	
+	Esquel	Chubut	EQS	Aeropuerto Brigadier General Antonio Parodi	AEP	
+	Ezeiza	Buenos Aires	EZE	Aeropuerto Internacional Ministro Pistarini	BRC	BHI	CRD	FTE	MDQ	MDZ	IGR	ROS	SLA	REL	USH	
+	Formosa	Formosa	FMA	Aeropuerto Internacional de Formosa	AEP	
+	El Calafate	Santa Cruz	FTE	Aeropuerto Comandante Armando Tola	BRC	AEP	EZE	CRD	COR	RGL	ROS	REL	USH	
+	Gobernador Gregores	Santa Cruz	GGS	Aeródromo Gobernador Gregores	CRD	FTE	ULA	RZA	
+	Chos Malal	Neuquén	HOS	Aeropuerto de Chos Malal	NQN	
+	Puerto Iguazú	Misiones	IGR	Aeropuerto Internacional de Puerto Iguazú	AEP	EZE	COR	MDZ	ROS	SLA	
+	La Rioja	La Rioja	IRJ	Aeropuerto Capitán Vicente Almandos Amonacid	AEP	
+	José de San Martín	Chubut	JSM	Aeropuerto de José de San Martín	CRD	
+	Perico	Jujuy	JUJ	Aeropuerto Internacional Gobernador Horacio Guzmán	AEP	EPA	COR	MDZ	
+	Loncopué	Neuquén	LCP	Aeropuerto Teniente La Rufa	NQN	
+	Malargüe	Mendoza	LGS	Aeropuerto Internacional Comodoro Ricardo Salomón	AEP	MDZ	NQN	
+	San Luis	San Luis	LUQ	Aeropuerto Brigadier Mayor Cesar Raúl Ojeda	AEP	
+	Mar del Plata	Buenos Aires	MDQ	Aeropuerto Internacional Astor Piazolla	BHI	AEP EZE	CRD	COR	MDZ	NQN	ROS	BRC	CPC	TUC	SFN	RSA	REL	USH	EPA	
+	Mendoza	Mendoza	MDZ	Aeropuerto Internacional El Plumerillo	BRC	AEP	EZE	EPA	COR	MDQ	NQN	IGR	ROS	SLA	CRD	
+	Miramar	Buenos Aires	MJR	Aeródromo Juan Domingo Perón	AEP	COR	
+	Neuquén	Neuquén	NQN	Aeropuerto Internacional Presidente Perón	BHI	AEP	EPA	CRD	COR	MDZ	
+	San Ramón de la Nueva Orán	Salta	ORA	Aero Club Orán	SLA	COR	
+	Goya	Corrientes	OYA	Aeropuerto Dr. Diego Nicolás Díaz Colodrero	AEP	PRA	RCQ	
+	Tres Arroyos	Buenos Aires	OYO	Aeropuerto Municipal Primer Teniente Héctor Ricardo Volponi	AEP	
+	Perito Moreno	Santa Cruz	PMQ	Aeropuerto Perito Moreno	CRD	RGL	
+	Puerto Madryn	Chubut	PMY	Aeropuerto El Tehuelche	AEP	
+	Paraná	Entre Ríos	PRA	Aeropuerto General Justo José de Urquiza	AEP	
+	Posadas	Misiones	PSS	Aeropuerto Internacional Libertador General José de San Martín	AEP	EPA	COR	
+	Reconquista	Santa Fe	RCQ	Aeropuerto Daniel Jurkic	AEP	ROS	
+	Río Cuarto	Córdoba	RCU	Aeropuerto de Río Cuarto	AEP	
+	Rincón de los Sauces	Neuquén	RDS	Aeropuerto Rincón de los Sauces	NQN	
+	Trelew	Chubut	REL	Aeropuerto Almirante Marco Andrés Zar/Base Aeronaval Almirante Zar	BHI	AEP	EZE	CRD	COR	FTE	MDQ	USH	
+	Resistencia	Chaco	RES	Aeropuerto Internacional de Resistencia	AEP	COR	
+	Río Grande	Tierra del Fuego	RGA	Aeropuerto Internacional Gob. Ramón Trejo Noel	AEP	CRD	RGL	
+	Río Gallegos	Santa Cruz	RGL	Aeropuerto Internacional Piloto Civil Norberto Fernández	AEP	CRD	RGA	FTE	
+	Termas de Río Hondo	Santiago del Estero	RHD	Aeropuerto Internacional Termas de Río Hondo	AEP	
+	Rosario	Santa Fe	ROS	Aeropuerto Internacional Rosario Islas Malvinas	BRC	AEP	EZE	MDQ	MDZ	IGR	RCQ	SLA	
+	Río Mayo	Chubut	ROY	Aeropuerto de Río Mayo	CRD	
+	Santa Rosa	La Pampa	RSA	Aeropuerto de Santa Rosa	AEP	
+	Río Turbio/Veintiocho de Noviembre	Santa Cruz	RYO	Aeropuerto Río Turbio	BRC	AEP	FTE	CRD	PMY	RGL	RGA USH	
+	Puerto Santa Cruz	Santa Cruz	RZA	Aeropuerto de Puerto Santa Cruz	CRD	RGL	USH	
+	Santiago del Estero	Santiago del Estero	SDE	Aeropuerto Vicecomodoro Ángel de la Paz Aragonés	AEP	EPA	
+	Sauce Viejo	Santa Fe	SFN	Aeropuerto de Sauce Viejo	AEP	
+	Salta	Salta	SLA	Aeropuerto Internacional Martín Miguel de Güemes	BRC	AEP	EZE	EPA	COR	MDZ	IGR	ROS	
+	Santa Teresita	Buenos Aires	SST	Aeropuerto de Santa Teresita	AEP	
+	Tandil	Buenos Aires	TDL	Aeropuerto de Tandil	AEP	
+	San Miguel de Tucumán	Tucumán	TUC	Aeropuerto Internacional Teniente General Benjamín Matienzo	AEP	EZE	EPA	COR	MDQ	BRC	
+	San Juan	San Juan	UAQ	Aeropuerto Domingo Faustino Sarmiento	AEP	
+	Puerto San Julián	Santa Cruz	ULA	Aeropuerto Capitán José Daniel Vázquez	CRD	RGL	USH	
+	Ushuaia	Tierra del Fuego	USH	Aeropuerto Internacional Malvinas Argentinas	BHI	AEP	EZE	COR	FTE	MDQ	ROS	REL	
+	Viedma	Río Negro	VDM	Aeropuerto Gobernador Edgardo Castello	AEP	
+	Villa Gesell	Buenos Aires	VLG	Aeropuerto de Villa Gesell	ROS	AEP	COR	
